@@ -1,7 +1,7 @@
 <p align="center">
   <img align="center" src="assets/spacer.webp" width="520" height="190" />
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=500&size=35&pause=1000&color=FFFFFF&center=true&width=600&height=45&lines=Hello%2C+welcome+to+my+github+profile" alt="Typing SVG" style="display:block;margin:0 auto;" />
-    <h1></h1>
-  </a>
+  <p align="center">
+    𝙷𝚎𝚕𝚕𝚘! 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎
+  </p>
+  <h1></h1>
 </p>
