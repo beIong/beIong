@@ -1,6 +1,4 @@
 
-<p align="center">Jr Software Engineer<p>
-  <br>
 <p align="center">
-  <img src="https://count.getloli.com/get/@beIong?theme=original-old" />
+  <img src="https://count.getloli.com/get/@beIong?theme=moebooru" />
 </p>
